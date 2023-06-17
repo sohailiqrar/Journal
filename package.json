@@ -1,0 +1,16 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "An edtech app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhas Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
